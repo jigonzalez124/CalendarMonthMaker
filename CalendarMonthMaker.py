@@ -1,3 +1,8 @@
+##  Name:           Jesus Ivan Gonzalez
+##  Create Date:    August 14th 2015
+##  Description:    Script accepts a month & year (digit representation) and returns
+##                  dayName - month, day
+
 import calendar
 
 dayOfWeek = ["Monday", "Tuesday", "Wednesday", "Thurdsay", "Friday", "Saturday", "Sunday"]
